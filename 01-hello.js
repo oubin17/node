@@ -5,5 +5,5 @@ console.log('Hello node.js')
 // console.log(document)
 
 //global 顶级对象
-console.log(global)
-console.log(globalThis)
+// console.log(global)
+// console.log(globalThis)
